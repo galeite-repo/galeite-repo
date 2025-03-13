@@ -53,7 +53,7 @@ Líder Técnico e Desenvolvedor Fullstack Sênior, especializado em **Angular e 
 - Desenvolveu frameworks de automação utilizando **RobotFramework, Python e Jenkins**.  
 - Melhorou a **performance do pipeline CI/CD**, reduzindo o tempo de deploy em **30%**.  
 
-### **WFS Web Cloud** (2018 - 2020)  
+### **WFS Web Cloud** (2016 - 2020)  
 **Função:** Consultor de Automação & Integração  
 - Definição e implementação de **estratégias de automação de testes** para clientes corporativos.  
 - Atuação com **Selenium WebDriver, Jenkins, Oracle e APIs REST**.  
